@@ -1,2 +1,4 @@
 # color2
 Color project2 implemented with HTML, CSS and JS
+This project describes how git and github works
+Tutor is P Karthik
